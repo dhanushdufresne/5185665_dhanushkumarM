@@ -6,6 +6,6 @@ class dummy
         int b=20;
         int c;
         c=a+b;
-        System.out.println("answer is c is =" + c );
+        System.out.println("Answer is c is =" + c );
     }
 }
