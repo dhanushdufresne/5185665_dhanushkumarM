@@ -1,0 +1,3 @@
+#  this is  a normal text file consist of 
+practice of branching and merging techniques in git 
+
