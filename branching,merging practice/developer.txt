@@ -1,7 +1,0 @@
-#  this is  a normal text file consist of 
-practice of branching and merging techniques in git 
-
-define branching 
-Branching in Git is a powerful feature that allows you to create a separate line of development within a repository.
-it lets you work on new features, bug fixes, or experiments without affecting the main codebase 
-(usually called the main or master branch).
