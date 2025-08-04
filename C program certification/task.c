@@ -3,7 +3,7 @@ int main()
 {
     int day;
     while(1) {
-        printf("Enter a number to print the day: ");
+        printf("Enter a day between 1-7: ");
         scanf("%d", &day);
 
         switch (day) {
@@ -21,7 +21,7 @@ int main()
                     break;
             case 7: printf("Sunday\n");
                     break;
-            default:printf("Invalid input- Please,enter a number from 1 to 7.\n");
+            default:printf("Please,enter a number from 1-7\n");
                     continue;
         }
         break;
