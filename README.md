@@ -1,14 +1,21 @@
 # 5185665_dhanushkumarM
+
 =======
-                    "AGILE COMPLETED PAGE"
-<img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/SDLC/agile%20certificate.jpg" alt "agile image"
+     "AGILE COMPLETION COURSE"
+<img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/SDLC/agile%20certificate.jpg" alt "agile image" 
 
-                    "GIT GREATLEARNING CERTIFICATE"
-
+    "GIT SIMPLILEARN CERTIFICATE"
 <img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/git%20certification/git%20certificate.png" alt "simplilearn"
->>>>>>> 40a647bb628bb852ea6bd1b7bc467505e3c32156
+=======
+>>>>>>> c0f14f9704b6d09ba2ee6609cdfccba6d822b2ee
 
+                
+
+
+<<<<<<< HEAD
                      "C programming certification
 <img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/C%20program%20certification/C%20intermediate%20.png" alt "C intermediate"
 
 <img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/C%20program%20certification/introduction%20to%20C.png" alt "C introduction to c">
+=======
+>>>>>>> c0f14f9704b6d09ba2ee6609cdfccba6d822b2ee
