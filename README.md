@@ -1,19 +1,14 @@
 # 5185665_dhanushkumarM
-<<<<<<< HEAD
-<img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/SDLC/agile%20certificate.jpg" alt "agile image" 
-
-
-<img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/git%20certification/git%20certificate.png" alt "simplilearn"
 =======
+                    "AGILE COMPLETED PAGE"
 <img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/SDLC/agile%20certificate.jpg" alt "agile image"
 
-
+                    "GIT GREATLEARNING CERTIFICATE"
 
 <img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/git%20certification/git%20certificate.png" alt "simplilearn"
 >>>>>>> 40a647bb628bb852ea6bd1b7bc467505e3c32156
 
-###  Introduction to C
-![Introduction to C](introduction_to_c.png)
+                     "C programming certification
+<img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/C%20program%20certification/C%20intermediate%20.png" alt "C intermediate"
 
-###  Intermediate C
-![Intermediate C](c_intermediate.png)
+<img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/C%20program%20certification/introduction%20to%20C.png" alt "C introduction to c">
