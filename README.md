@@ -7,8 +7,4 @@
 =======
 
 
-###  Introduction to C
-![Introduction to C](introduction_to_c.png)
 
-###  Intermediate C
-![Intermediate C](c_intermediate.png)
