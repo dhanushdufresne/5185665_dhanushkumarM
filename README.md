@@ -1,6 +1,6 @@
 # 5185665_dhanushkumarM
 
-=======
+
      "AGILE COMPLETION COURSE"
 <img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/SDLC/agile%20certificate.jpg" alt "agile image" 
 
@@ -12,7 +12,7 @@
                 
 
 
-<<<<<<< HEAD
+
                      "C programming certification
 <img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/C%20program%20certification/C%20intermediate%20.png" alt "C intermediate"
 
