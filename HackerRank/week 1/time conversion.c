@@ -21,7 +21,7 @@ int main()
     {
         if (hour != 12) 
         {
-            hour = hour + 12;
+         hour = hour + 12;
             time[0] = (hour / 10) + '0';
             time[1] = (hour % 10) + '0';
         }
