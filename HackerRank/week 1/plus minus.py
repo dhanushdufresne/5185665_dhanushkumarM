@@ -17,9 +17,9 @@ def plusMinus(arr):
             negative+=1
         else:
             zero+=1
-    print(positive/len(arr))
-    print(negative/len(arr))
-    print(zero/len(arr))
+    print(positive/total)
+    print(negative/total)
+    print(zero/total)
 
 if __name__ == '__main__':
     n = int(input().strip())
