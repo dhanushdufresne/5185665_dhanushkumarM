@@ -1,4 +1,5 @@
 #include <stdio.h>
+int result;
 int Uniquenumber(int arr[], int size) 
 {
     for (int i = 0; i < size; i++)
@@ -20,7 +21,6 @@ int Uniquenumber(int arr[], int size)
 
 int main() {
     int length;
-    int result;
     scanf("%d", &length);
 
     int arr[length];
