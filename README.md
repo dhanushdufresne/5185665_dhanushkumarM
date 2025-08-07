@@ -19,3 +19,4 @@
 
 <img src ="https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/main/C%20program%20certification/introduction%20to%20C.png" alt "C introduction to c">
 
+![img alt](https://github.com/dhanushdufresne/5185665_dhanushkumarM/blob/ec66fb34ccb3f5a0dd640a945436650cf9e354d6/git%20certification/git%20certificate.png)
